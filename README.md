@@ -1,19 +1,4 @@
-# VotingSmartContract README
-
-This README provides a detailed explanation of the "VotingSmartContract" written in Solidity.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Smart Contract Overview](#smart-contract-overview)
-- [Contract State Variables](#contract-state-variables)
-- [Structs](#structs)
-- [Modifiers](#modifiers)
-- [Functions](#functions)
-- [Events](#events)
-- [Usage](#usage)
-- [License](#license)
-
+# VotingSmartContract
 ## Introduction
 
 The "VotingSmartContract" is a Solidity smart contract for managing a voting system. It allows users to register as voters, register contestants, and cast votes for their favorite contestants.
